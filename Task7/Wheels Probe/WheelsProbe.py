@@ -24,8 +24,7 @@ def search_by_attribute(data, query):
 
 # main.py
 import sys
-from algorithms.sorting_algorithms import bubble_sort, quick_sort
-from algorithms.searching_algorithms import search_by_attribute
+
 
 # Sample data
 cars_data = [
